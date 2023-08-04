@@ -11,17 +11,18 @@ I am endowed with great curiosity, leadership skills, and a determined problem-s
 My technical skills include:
 
 - HTML/CSS
-- JavaScript
+- JavaScript / TypeScript
 - React and Redux 
 - PHP
 - C# (basics)
-- Node.js / Express
-- Mockup creation with Figma®
-- WordPress setup with Divi® Builder
 - Consuming REST APIs
+- Node.js / Express
+- Bootstrap / Tailwind
 - Creating and connecting databases in SQL (MySQL, PostgreSQL, JMerise, Workbench)
 - Using Git for version control
 - Developing on the Visual Studio Code IDE
+- Mockup creation with Figma®
+- WordPress setup with Divi® Builder
 
 ## 📚 Education 
 
